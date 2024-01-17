@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Aboutnav {
+    background: #205abd;
+    border-bottom: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-family: 'Poppins', sans-serif;
+}
+
+.Aboutlogo {
+    width: 11rem;
+    height: 12rem;
+    position: relative;
+}
+
+.Aboutul {
+    display: flex;
+    gap: 2rem;
+    position: absolute;
+    bottom: 36rem;
+    right: 4rem;
+}
+
+.Aboutheading {
+    text-align: center;
+    position: relative;
+    bottom: 6rem;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: xxx-large;
+}
+
+.Aboutli,
+a {
+    color: #bbd0ff;
+}
+
+.Aboutcontainer {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    max-width: 34rem;
+    left: 48rem;
+    top: 30rem;
+
+}
+
+.innerparent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.Aboutouter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Aboutinner {
+    line-height: 2rem;
+    max-width: 63rem;
+    margin-bottom: 2rem;
+    font-size: x-large;
+}
+
+.Aboutinner1 {
+    line-height: 2rem;
+    max-width: 63rem;
+    margin-bottom: 2rem;
+    font-size: x-large;
+}
+
+.Aboutinner2 {
+    line-height: 2rem;
+    max-width: 63rem;
+    margin-bottom: 2rem;
+    font-size: x-large;
+}
+
+.Aboutinner3 {
+    line-height: 2rem;
+    max-width: 63rem;
+    margin-bottom: 2rem;
+    font-size: x-large;
+}
+
+.Aboutoutside {
+    max-width: 62rem;
+    margin-left: 6rem;
+
+}
+
+.Questios {
+    color: black;
+}
+
+.Questionstap {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 3rem;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.Abouttemplateimage {
+    width: 100%;
+    margin-top: 2rem;
+    height: 35rem;
+
+}
+
+.Abouttext {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -32rem;
+    font-size: large;
+    max-width: 83rem;
+    gap: 2rem;
+    line-height: 2rem;
+}
+
+.Aboutheadingtemplate {
+    color: #fda003;
+}
+
+.Aboutperatemplate {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Aboutlitel {
+    margin-left: 4rem;
+
+}
+
+.Aboutlitel2 {
+    position: absolute;
+    top: 12rem;
+    left: 56rem;
+    max-width: 29rem;
+}
+
+.Aboutlitel3 {
+    position: relative;
+    top: 20rem;
+    right: 40rem;
+}
+
+.thanks {
+    margin-top: -4rem;
+    margin-left: 34rem;
+    font-size: xxx-large;
+    font-weight: 600;
+    color: cadetblue;
+
+}
